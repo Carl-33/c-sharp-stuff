@@ -12,6 +12,6 @@ namespace c_stuff
             Console.WriteLine($"{Environment.NewLine}Hello, {name}, on {currentDate:d} at {currentDate:t}!");
             Console.Write($"{Environment.NewLine}Press any key to exit...");
             Console.ReadKey(true);
+        }
     }
-}
 }
