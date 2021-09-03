@@ -1,0 +1,5 @@
+C:\Users\koepk\Repositories\c-stuff\bin\Release\net5.0\publish\c-stuff.exe
+C:\Users\koepk\Repositories\c-stuff\bin\Release\net5.0\publish\c-stuff.dll
+C:\Users\koepk\Repositories\c-stuff\bin\Release\net5.0\publish\c-stuff.deps.json
+C:\Users\koepk\Repositories\c-stuff\bin\Release\net5.0\publish\c-stuff.runtimeconfig.json
+C:\Users\koepk\Repositories\c-stuff\bin\Release\net5.0\publish\c-stuff.pdb
