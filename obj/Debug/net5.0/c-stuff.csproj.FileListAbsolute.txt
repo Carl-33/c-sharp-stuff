@@ -1,3 +1,8 @@
+C:\Users\koepk\Repositories\c-stuff\obj\Debug\net5.0\c-stuff.csproj.AssemblyReference.cache
+C:\Users\koepk\Repositories\c-stuff\obj\Debug\net5.0\c-stuff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koepk\Repositories\c-stuff\obj\Debug\net5.0\c-stuff.AssemblyInfoInputs.cache
+C:\Users\koepk\Repositories\c-stuff\obj\Debug\net5.0\c-stuff.AssemblyInfo.cs
+C:\Users\koepk\Repositories\c-stuff\obj\Debug\net5.0\c-stuff.csproj.CoreCompileInputs.cache
 C:\Users\koepk\Repositories\c-stuff\bin\Debug\net5.0\c-stuff.exe
 C:\Users\koepk\Repositories\c-stuff\bin\Debug\net5.0\c-stuff.deps.json
 C:\Users\koepk\Repositories\c-stuff\bin\Debug\net5.0\c-stuff.runtimeconfig.json
@@ -5,11 +10,6 @@ C:\Users\koepk\Repositories\c-stuff\bin\Debug\net5.0\c-stuff.runtimeconfig.dev.j
 C:\Users\koepk\Repositories\c-stuff\bin\Debug\net5.0\c-stuff.dll
 C:\Users\koepk\Repositories\c-stuff\bin\Debug\net5.0\ref\c-stuff.dll
 C:\Users\koepk\Repositories\c-stuff\bin\Debug\net5.0\c-stuff.pdb
-C:\Users\koepk\Repositories\c-stuff\obj\Debug\net5.0\c-stuff.csproj.AssemblyReference.cache
-C:\Users\koepk\Repositories\c-stuff\obj\Debug\net5.0\c-stuff.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\koepk\Repositories\c-stuff\obj\Debug\net5.0\c-stuff.AssemblyInfoInputs.cache
-C:\Users\koepk\Repositories\c-stuff\obj\Debug\net5.0\c-stuff.AssemblyInfo.cs
-C:\Users\koepk\Repositories\c-stuff\obj\Debug\net5.0\c-stuff.csproj.CoreCompileInputs.cache
 C:\Users\koepk\Repositories\c-stuff\obj\Debug\net5.0\c-stuff.dll
 C:\Users\koepk\Repositories\c-stuff\obj\Debug\net5.0\ref\c-stuff.dll
 C:\Users\koepk\Repositories\c-stuff\obj\Debug\net5.0\c-stuff.pdb
